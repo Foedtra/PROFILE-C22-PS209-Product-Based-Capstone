@@ -2,10 +2,8 @@
 ![Bangkit](https://lh3.googleusercontent.com/J2QI0L3vJwv63Sm3isI90ctxuxznz67dAtJQN2vu7wnUuwt9Wc-WI7VuIhwvr0yVrDPfc7kBN5usZz75nDW_k96pCfcZBxnfNzvVS0g=w600)
 
 ![GitHub contributors](https://img.shields.io/github/contributors/Zenk41/C22-PS209-Product-Based-Capstone?style=for-the-badge&color=9cf)
-![GitHub forks](https://img.shields.io/github/forks/Zenk41/C22-PS209-Product-Based-Capstone?style=for-the-badge)
-![Packagist Stars](https://img.shields.io/packagist/stars/Zenk41/C22-PS209-Product-Based-Capstone?style=for-the-badge&color=yellow)
-![GitHub](https://img.shields.io/github/license/Zenk41/C22-PS209-Product-Based-Capstone?style=for-the-badge)
-(***Will be Available in Public***)
+![GitHub forks](https://img.shields.io/github/forks/Zenk41/C22-PS209-Product-Based-Capstone?style=for-the-badge&color=yellow)
+![GitHub](https://img.shields.io/github/license/Zenk41/C22-PS209-Product-Based-Capstone?style=for-the-badge&color=critical)
 
 <h1 align="center">Bangkit Capstone Project 2022: _______________</h1>
 
