@@ -5,7 +5,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/Zenk41/C22-PS209-Product-Based-Capstone?style=for-the-badge&color=yellow)
 ![GitHub](https://img.shields.io/github/license/Zenk41/C22-PS209-Product-Based-Capstone?style=for-the-badge&color=critical)
 
-<h1 align="center">Bangkit Capstone Project 2022: _______________</h1>
+<h1 align="center">Bangkit Capstone Project 2022: Foedtra App</h1>
 
 ## The Members :
 
