@@ -22,5 +22,11 @@ C2009F0988 | Muhammad Rizky Fajri | Gunadarma University | Cloud Computing
 
 - [Project Plan Doc](https://docs.google.com/document/d/1XLlOUazsGaX0f4rv-0VVhj8dRDvOto9woKR8liUZKOE)
 - [Schedule Gantt Chart](https://docs.google.com/spreadsheets/d/1tU6iL1KxSzcJtPhAOW1SB_7iUgy2sN2H3-sAo6D52fo)
-- [Design Cloud Infra](https://www.figma.com/file/Amk0U9XtyIqYyj2If07nvb/BANGKIT-2022-%7C-C22-PS209?node-id=3%3A21)
-- [Design ML Infra]()(***Not Available yet!***)
+
+## Design
+### Backend API
+![Backend API](https://github.com/Foedtra/PROFILE-C22-PS209-Product-Based-Capstone/blob/main/CC/Google%20Cloud%20Foedtra%20Final%201%20_%20For%20Backend.png?raw=true)
+### ML API
+![ML API Predict](https://github.com/Foedtra/PROFILE-C22-PS209-Product-Based-Capstone/blob/main/CC/Google%20Cloud%20Foedtra%20Final%202%20_%20For%20Image%20Predict.png?raw=true)
+### Android
+![Android](https://github.com/Foedtra/PROFILE-C22-PS209-Product-Based-Capstone/blob/main/CC/UIUX%20Android.png?raw=true)
