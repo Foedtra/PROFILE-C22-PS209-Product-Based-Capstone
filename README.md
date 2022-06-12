@@ -24,6 +24,9 @@ C2009F0988 | Muhammad Rizky Fajri | Gunadarma University | Cloud Computing
 - [Schedule Gantt Chart](https://docs.google.com/spreadsheets/d/1tU6iL1KxSzcJtPhAOW1SB_7iUgy2sN2H3-sAo6D52fo)
 
 ## Design
+
+### Desing Main Feature API
+![Backend API](https://github.com/Foedtra/PROFILE-C22-PS209-Product-Based-Capstone/blob/main/CC/Design%20main%20feature%20API.png?raw=true)
 ### Backend API
 ![Backend API](https://github.com/Foedtra/PROFILE-C22-PS209-Product-Based-Capstone/blob/main/CC/Google%20Cloud%20Foedtra%20Final%201%20_%20For%20Backend.png?raw=true)
 ### ML API
